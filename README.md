@@ -1,6 +1,6 @@
 # 💰 Personal Expense Tracker
 
-## Mention: This application was build by using Claude Code and designed by the creater
+#### Mention: This application was build by using Claude Code and designed by the creater
 
 A modern, user-friendly expense tracking application built with Next.js 15 and Thai language support. Manage your income and expenses effortlessly with intuitive design and powerful features.
 
