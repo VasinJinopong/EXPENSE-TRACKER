@@ -4,6 +4,16 @@
 
 A modern, user-friendly expense tracking application built with Next.js 15 and Thai language support. Manage your income and expenses effortlessly with intuitive design and powerful features.
 
+## 📸 Screenshots
+
+### Main Dashboard
+![Main Dashboard](images/CleanShot%202568-08-12%20at%2020.08.30@2x.png)
+*The main interface showing transaction summary, date filters, and transaction list*
+
+### Add Transaction Form
+![Add Transaction Form](images/CleanShot%202568-08-12%20at%2020.09.09@2x.png)
+*User-friendly modal form for adding new income or expense transactions*
+
 ## 🌟 Key Features
 
 ### 📊 **Smart Financial Management**
